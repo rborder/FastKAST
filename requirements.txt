@@ -1,3 +1,4 @@
 pandas-plink==2.1.0
 chi2comb
 julia
+scipy
